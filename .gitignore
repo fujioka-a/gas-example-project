@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# project_setting
+node_modules/
+
 # C extensions
 *.so
 

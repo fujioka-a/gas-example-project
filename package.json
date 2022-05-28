@@ -1,0 +1,17 @@
+{
+  "name": "gas-example-project",
+  "version": "1.0.0",
+  "description": "GASを利用したサンプルプロジェクト",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fujioka-a",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
